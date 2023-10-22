@@ -17,7 +17,7 @@ const userSchema = mongoose.Schema({
     },
     profile:{
         type: String,
-        default: "https://static.vecteezy.com/system/resources/thumbnails/020/765/399/small/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg"
+        default: "https://i.pinimg.com/736x/83/bc/8b/83bc8b88cf6bc4b4e04d153a418cde62.jpg"
     }
 }, {timestamps:true})
 
